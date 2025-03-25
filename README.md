@@ -4,12 +4,12 @@
 <ul style="list-style: none; padding: 0; margin:0; text-align: center">
   <li>
     <h2>
-      Developer at <a href="https://www.championlife.com.au">Champion Life</a>.
+      Developer at <a href="https://woodfordia.org/">Woodfordia</a> and <a href="https://www.championlife.com.au">Champion Life</a>.
     </h2>
   </li>
   <li>
     <h2>
-      Currently working in Next.js, Drupal 11, TailwindCSS, MantineUI</a>
+      Currently working in WordPress, Next.js, Drupal 11, TailwindCSS, MantineUI</a>
     </h2>
   </li>  
   <li>
@@ -19,7 +19,7 @@
   </li>
   <li>
     <h2>
-      Learning Laravel as a Symfony dev at <a href="https://laracasts.com/">laracasts</a>.
+      Learning: Azure.
     </h2>
   </li>
 </ul>
